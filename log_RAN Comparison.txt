@@ -1,0 +1,7 @@
+4862 training steps at reco and 4942 steps at gen
+ITERATION: 1
+RUNNING STEP 1
+Creating cached data from step 1
+################################################################################
+Train events used: 2489344, Test events used: 497868
+################################################################################
